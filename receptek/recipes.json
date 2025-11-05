@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "recipe_id": 1,
+      "title": "Gulyásleves",
+      "description": "Hagyományos magyar marhahúsleves zöldségekkel és fűszerekkel.",
+      "ingredients": "marhahús, burgonya, sárgarépa, hagyma, paprika, kömény, fokhagyma",
+      "steps": "A húst megpirítjuk, hozzáadjuk a zöldségeket és fűszereket, majd lassan főzzük.",
+      "difficulty": "Közepes"
+    },
+    {
+      "recipe_id": 2,
+      "title": "Lecsó",
+      "description": "Paprikából és paradicsomból készült hagyományos magyar étel.",
+      "ingredients": "paprika, paradicsom, hagyma, szalonna, só, bors",
+      "steps": "A hagymát megpirítjuk, hozzáadjuk a szalonnát, majd a paprikát és a paradicsomot.",
+      "difficulty": "Könnyű"
+    },
+    {
+      "recipe_id": 3,
+      "title": "Paprikás csirke",
+      "description": "Tejfölös csirke paprikával és hagymával, nokedlivel tálalva.",
+      "ingredients": "csirke, hagyma, paprika, tejföl, liszt, só, bors",
+      "steps": "A hagymát megpirítjuk, hozzáadjuk a paprikát és a csirkét, majd tejföllel sűrítjük.",
+      "difficulty": "Közepes"
+    },
+    {
+      "recipe_id": 4,
+      "title": "Halászlé",
+      "description": "Erősen fűszerezett halleves, általában pontyból készül.",
+      "ingredients": "ponty, hagyma, paprika, paradicsom, erős paprika, só",
+      "steps": "A halat előkészítjük, a zöldségeket főzzük, majd a halat rövid ideig együtt főzzük.",
+      "difficulty": "Közepes"
+    },
+    {
+      "recipe_id": 5,
+      "title": "Rántott hús",
+      "description": "Panírozott sertésszelet bő olajban kisütve.",
+      "ingredients": "sertésszelet, liszt, tojás, zsemlemorzsa, olaj, só",
+      "steps": "A hússzeleteket bepanírozzuk és aranybarnára sütjük.",
+      "difficulty": "Könnyű"
+    },
+    {
+      "recipe_id": 6,
+      "title": "Töltött káposzta",
+      "description": "Káposztalevelekbe töltött darált húsos, rizses keverék paradicsomos szaftban.",
+      "ingredients": "savanyú káposzta, darált hús, rizs, paprika, paradicsom, hagyma",
+      "steps": "A töltelékeket a káposztába csomagoljuk, majd paradicsomos szaftban főzzük.",
+      "difficulty": "Nehéz"
+    },
+    {
+      "recipe_id": 7,
+      "title": "Somlói galuska",
+      "description": "Háromféle piskótából, dióból, csokoládéból és tejszínhabból készült magyar desszert.",
+      "ingredients": "piskóta, dió, csokoládé, tejszín, rum, mazsola, cukor",
+      "steps": "A piskótát rétegezzük a krémmel és a dióval, majd tejszínhabbal tálaljuk.",
+      "difficulty": "Nehéz"
+    },
+    {
+      "recipe_id": 8,
+      "title": "Hortobágyi palacsinta",
+      "description": "Húsos töltelékkel töltött, paprikás szósszal leöntött palacsinta.",
+      "ingredients": "palacsinta, darált hús, paprika, hagyma, tejföl, liszt",
+      "steps": "A tölteléket elkészítjük, a palacsintába töltjük, majd szósszal leöntve sütjük.",
+      "difficulty": "Közepes"
+    },
+    {
+      "recipe_id": 9,
+      "title": "Pörkölt",
+      "description": "Szaftos húsétel hagymával, paprikával és fűszerekkel.",
+      "ingredients": "marhahús, hagyma, paprika, paradicsom, só, bors",
+      "steps": "A hagymát megpirítjuk, hozzáadjuk a húst és fűszereket, majd lassan főzzük.",
+      "difficulty": "Közepes"
+    },
+    {
+      "recipe_id": 10,
+      "title": "Palócleves",
+      "description": "Marhahúsból és zöldbabból készült leves tejfölös habarással.",
+      "ingredients": "marhahús, zöldbab, burgonya, hagyma, tejföl, paprika",
+      "steps": "A húst megfőzzük, hozzáadjuk a zöldségeket, végül tejföllel habarjuk be.",
+      "difficulty": "Könnyű"
+    }
+  ]
+}
